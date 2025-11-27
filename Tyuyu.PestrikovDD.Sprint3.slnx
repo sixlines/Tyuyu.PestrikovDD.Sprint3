@@ -14,4 +14,7 @@
     <Project Path="Tyuiu.PestrikovDD.Sprint3.Task2.V14.Test/Tyuiu.PestrikovDD.Sprint3.Task2.V14.Test.csproj" />
     <Project Path="Tyuiu.PestrikovDD.Sprint3.Task2.V14/Tyuiu.PestrikovDD.Sprint3.Task2.V14.csproj" />
   </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task3.V9/Tyuiu.PestrikovDD.Sprint3.Task3.V9.csproj" />
+  </Folder>
 </Solution>
