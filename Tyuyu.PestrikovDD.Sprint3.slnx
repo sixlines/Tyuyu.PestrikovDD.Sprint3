@@ -1,42 +1,42 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task0.V16.Lib/Tyuiu.PestrikovDD.Sprint3.Task0.V16.Lib.csproj" />
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task0.V16.Test/Tyuiu.PestrikovDD.Sprint3.Task0.V16.Test.csproj" />
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task0.V16/Tyuiu.PestrikovDD.Sprint3.Task0.V16.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task0.V16.Lib/Tyuyu.PestrikovDD.Sprint3.Task0.V16.Lib.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task0.V16.Test/Tyuyu.PestrikovDD.Sprint3.Task0.V16.Test.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task0.V16/Tyuyu.PestrikovDD.Sprint3.Task0.V16.csproj" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task1.V5.Lib/Tyuiu.PestrikovDD.Sprint3.Task1.V5.Lib.csproj" />
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task1.V5.Test/Tyuiu.PestrikovDD.Sprint3.Task1.V5.Test.csproj" />
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task1.V5/Tyuiu.PestrikovDD.Sprint3.Task1.V5.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task1.V5.Lib/Tyuyu.PestrikovDD.Sprint3.Task1.V5.Lib.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task1.V5.Test/Tyuyu.PestrikovDD.Sprint3.Task1.V5.Test.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task1.V5/Tyuyu.PestrikovDD.Sprint3.Task1.V5.csproj" />
   </Folder>
   <Folder Name="/Task2/">
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task2.V14.Lib/Tyuiu.PestrikovDD.Sprint3.Task2.V14.Lib.csproj" />
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task2.V14.Test/Tyuiu.PestrikovDD.Sprint3.Task2.V14.Test.csproj" />
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task2.V14/Tyuiu.PestrikovDD.Sprint3.Task2.V14.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task2.V14.Lib/Tyuyu.PestrikovDD.Sprint3.Task2.V14.Lib.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task2.V14.Test/Tyuyu.PestrikovDD.Sprint3.Task2.V14.Test.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task2.V14/Tyuyu.PestrikovDD.Sprint3.Task2.V14.csproj" />
   </Folder>
   <Folder Name="/Task3/">
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task3.V9.Lib/Tyuiu.PestrikovDD.Sprint3.Task3.V9.Lib.csproj" />
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task3.V9.Test/Tyuiu.PestrikovDD.Sprint3.Task3.V9.Test.csproj" />
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task3.V9/Tyuiu.PestrikovDD.Sprint3.Task3.V9.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task3.V9.Lib/Tyuyu.PestrikovDD.Sprint3.Task3.V9.Lib.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task3.V9.Test/Tyuyu.PestrikovDD.Sprint3.Task3.V9.Test.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task3.V9/Tyuyu.PestrikovDD.Sprint3.Task3.V9.csproj" />
   </Folder>
   <Folder Name="/Task4/">
     <Project Path="Tyuiu.PestrikovDD.Sprint3.Task4.V1.Lib/Tyuiu.PestrikovDD.Sprint3.Task4.V1.Lib.csproj" />
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task4.V1.Test/Tyuiu.PestrikovDD.Sprint3.Task4.V1.Test.csproj" />
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task4.V1/Tyuiu.PestrikovDD.Sprint3.Task4.V1.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task4.V1.Test/Tyuyu.PestrikovDD.Sprint3.Task4.V1.Test.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task4.V1/Tyuyu.PestrikovDD.Sprint3.Task4.V1.csproj" />
   </Folder>
   <Folder Name="/Task5/">
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task5.V12.Lib/Tyuiu.PestrikovDD.Sprint3.Task5.V13.Lib.csproj" />
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task5.V12.Test/Tyuiu.PestrikovDD.Sprint3.Task5.V13.Test.csproj" />
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task5.V12/Tyuiu.PestrikovDD.Sprint3.Task5.V13.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task5.V12.Lib/Tyuyu.PestrikovDD.Sprint3.Task5.V13.Lib.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task5.V12.Test/Tyuyu.PestrikovDD.Sprint3.Task5.V13.Test.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task5.V12/Tyuyu.PestrikovDD.Sprint3.Task5.V13.csproj" />
   </Folder>
   <Folder Name="/Task6/">
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task6.V15.Lib/Tyuiu.PestrikovDD.Sprint3.Task6.V15.Lib.csproj" />
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task6.V15.Test/Tyuiu.PestrikovDD.Sprint3.Task6.V15.Test.csproj" />
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task6.V15/Tyuiu.PestrikovDD.Sprint3.Task6.V15.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task6.V15.Lib/Tyuyu.PestrikovDD.Sprint3.Task6.V15.Lib.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task6.V15.Test/Tyuyu.PestrikovDD.Sprint3.Task6.V15.Test.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task6.V15/Tyuyu.PestrikovDD.Sprint3.Task6.V15.csproj" />
   </Folder>
   <Folder Name="/Task7/">
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task7.V6.Lib/Tyuiu.PestrikovDD.Sprint3.Task7.V6.Lib.csproj" />
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task7.V6.Test/Tyuiu.PestrikovDD.Sprint3.Task7.V6.Test.csproj" />
-    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task7.V6/Tyuiu.PestrikovDD.Sprint3.Task7.V6.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task7.V6.Lib/Tyuyu.PestrikovDD.Sprint3.Task7.V6.Lib.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task7.V6.Test/Tyuyu.PestrikovDD.Sprint3.Task7.V6.Test.csproj" />
+    <Project Path="Tyuiu.PestrikovDD.Sprint3.Task7.V6/Tyuyu.PestrikovDD.Sprint3.Task7.V6.csproj" />
   </Folder>
 </Solution>
